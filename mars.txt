@@ -1,3 +1,5 @@
 mars is a planet
 
 it is cold and dry 
+
+it has two moons.
